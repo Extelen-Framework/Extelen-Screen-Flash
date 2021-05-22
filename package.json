@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.screenflash",
+  "version": "1.0.0",
+  "displayName": "Extelen Screen Flash",
+  "description": "This package gives you the possibility to create flash effects in the UI smoothly.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["ui", "library", "flash"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}

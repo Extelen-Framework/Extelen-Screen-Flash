@@ -1,0 +1,16 @@
+{
+    "name": "com.extelen.screenflash.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c0b487ab0a7d2b143b207d03c504a154"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
